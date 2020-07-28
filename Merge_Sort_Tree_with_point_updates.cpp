@@ -4,6 +4,7 @@
 
 //build function
 //supports update and query 
+//currently allows only distinct values
 class merge_sort_tree
 {
     #define v32 vector <int>
